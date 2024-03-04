@@ -1,0 +1,16 @@
+.selectControl {
+    margin: 1em 0;
+    display: flex;
+    flex-direction: column;
+    gap: .7em;
+}
+
+.selectControl label {
+    font-weight: bold;
+}
+
+ .selectControl select {
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+ }

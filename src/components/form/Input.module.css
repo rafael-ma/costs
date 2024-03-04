@@ -1,0 +1,20 @@
+.inputControl {
+    margin: 1em 0;
+    display: flex;
+    flex-direction: column;
+    gap: .7em;
+}
+
+.inputControl label {
+    font-weight: bold;
+}
+
+ .inputControl input {
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+ }
+
+ .inputControl input::placeholder {
+    color: #7b7b7b;
+ }
